@@ -1,0 +1,16 @@
+{
+"companyName": "hogehoge",
+"productName": "Ball Catch",
+"productVersion": "0.1",
+"dataUrl": "Playerdata.data.unityweb",
+"wasmCodeUrl": "Playerdata.wasm.code.unityweb",
+"wasmFrameworkUrl": "Playerdata.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
